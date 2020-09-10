@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <entity entity-name="Example" package="example">
+        <field name="exampleId" type="id" is-pk="true"/>
+        <field name="exampleName" type="text-medium"/>
+        <field name="exampleDate" type="date"/>
+        <field name="examplePrice" type="decimal"/>
+        <field name="exampleQuantity" type="integer"/>
+  </entity>
+</entities>
